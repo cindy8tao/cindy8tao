@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 - 💬 Ask me about **JAVA**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume_Cindy.pdf](https://github.com/cindy8tao/cindy8tao/files/7022079/Resume_Cindy.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
