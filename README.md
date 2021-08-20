@@ -16,7 +16,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://user-images.githubusercontent.com/64484253/130241785-bfd96160-c3ea-4764-92da-39fd42c28ada.png = 250x250
+[2.2]: (https://user-images.githubusercontent.com/64484253/130241785-bfd96160-c3ea-4764-92da-39fd42c28ada.png = 250x250)
 
 
 <!-- Links to your social media accounts -->
