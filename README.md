@@ -1,4 +1,4 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 _______________________________________________________________________________________________________________
 
@@ -11,7 +11,7 @@ I'm graduate student from University of Pennsylvania studying Master's Computer 
 
 <!-- Actual text -->
 
-You can find me on on [![1.2]][1].
+You can find me on on [![Webp net-resizeimage](https://user-images.githubusercontent.com/64484253/130242872-7d64958a-ea18-43e6-b50f-dc42251ffebb.png)][1].
 
 <!-- Icons -->
 
