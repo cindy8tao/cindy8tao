@@ -1,3 +1,4 @@
+![LinkedIn](https://user-images.githubusercontent.com/64484253/130242304-410c82b4-3d7b-4e84-90bd-d1ffda033e98.png)
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 _______________________________________________________________________________________________________________
@@ -11,15 +12,15 @@ I'm graduate student from University of Pennsylvania studying Master's Computer 
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: (https://user-images.githubusercontent.com/64484253/130241785-bfd96160-c3ea-4764-92da-39fd42c28ada.png = 250x250)
+[1.2]: ![LinkedIn](https://user-images.githubusercontent.com/64484253/130242346-90b051cb-caa6-4c9a-9646-699e2d24bef9.png)
+
 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/cindytao/
+
