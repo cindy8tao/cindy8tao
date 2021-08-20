@@ -17,13 +17,6 @@ You can find me on on [![LinkedIn][1.2]][1].
 
 [1.2]: ![Webp net-resizeimage](https://user-images.githubusercontent.com/64484253/130242872-7d64958a-ea18-43e6-b50f-dc42251ffebb.png)
 
-
-
-
-
-
-
-
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/cindytao/
