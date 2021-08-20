@@ -11,7 +11,7 @@ I'm graduate student from University of Pennsylvania studying Master's Computer 
 
 <!-- Actual text -->
 
-You can find me on on [![1.2]][1].
+You can find me on on [![1.2][1]].
 
 <!-- Icons -->
 
