@@ -15,7 +15,8 @@ You can find me on on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/64484253/130242638-8056760e-e635-4cf6-8968-078276337ef1.png)
+[1.2]: ![Webp net-resizeimage](https://user-images.githubusercontent.com/64484253/130242718-b60e9737-d2e6-444d-bede-2595f69f1725.png)
+
 
 
 
