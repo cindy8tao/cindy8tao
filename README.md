@@ -9,5 +9,5 @@ ________________________________________________________________________________
 
 I'm graduate student from University of Pennsylvania studying Master's Computer and Information Technology (MCIT). Some technologies I enjoy working with include JAVA, Python, and C.  
 
-You can find me on on [![LinkedIn](https://user-images.githubusercontent.com/64484253/130242872-7d64958a-ea18-43e6-b50f-dc42251ffebb.png)](https://www.linkedin.com/in/cindytao/) : www.linkedin.com/in/cindytao/.
+You can find me on on [![LinkedIn](https://user-images.githubusercontent.com/64484253/130242872-7d64958a-ea18-43e6-b50f-dc42251ffebb.png)](https://www.linkedin.com/in/cindytao/) : www.linkedin.com/in/cindytao/
 
