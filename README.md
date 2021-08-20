@@ -1,4 +1,3 @@
-![LinkedIn](https://user-images.githubusercontent.com/64484253/130242304-410c82b4-3d7b-4e84-90bd-d1ffda033e98.png)
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 _______________________________________________________________________________________________________________
@@ -16,7 +15,8 @@ You can find me on on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: ![LinkedIn](https://user-images.githubusercontent.com/64484253/130242346-90b051cb-caa6-4c9a-9646-699e2d24bef9.png)
+[1.2]: ![Webp net-resizeimage](https://user-images.githubusercontent.com/64484253/130242552-d12867aa-ccfc-41a3-a3cb-56ce3eb65b28.png)
+
 
 
 
